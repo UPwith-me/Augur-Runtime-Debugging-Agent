@@ -244,6 +244,6 @@ Augur 可以直接集成到你的 Windows 工作流中。只需一次点击，�
 **Augur** is an open-source project. Contributions are welcome!
 **Augur** 是一个开源项目，欢迎贡献代码！
 
-[Report Bug](https://github.com/your-username/augur/issues) • [Request Feature](https://github.com/your-username/augur/issues)
+[Report Bug](https://github.com/UPwith-me/Augur-Runtime-Debugging-Agent/issues) • [Request Feature](https://github.com/UPwith-me/Augur-Runtime-Debugging-Agent/issues)
 
 </div>
