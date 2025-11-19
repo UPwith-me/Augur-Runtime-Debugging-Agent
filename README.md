@@ -4,7 +4,7 @@
 ### The AI-Native Runtime Debugger
 ### AI 原生运行时调试器
 
-![Augur Banner](https://via.placeholder.com/1200x400/0f172a/38bdf8?text=Augur+Runtime+Intelligence)
+![Augur Banner](./assets/augur_banner.png)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue.svg?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
@@ -31,6 +31,12 @@ Traditional AI coding assistants (like Copilot) are "blind" to the execution of 
 3.  **Act** autonomously by stepping through code, inspecting variables, and proposing fixes.
 
 It is not just a chatbot; it is a **Ghost in the Shell** of your debugger.
+
+## 🛡️ License
+
+This project is licensed under the **Non-Commercial License** - see the [LICENSE](LICENSE) file for details.
+
+> **Note**: Commercial use requires a separate license. Please contact the author for details.
 
 ### ✨ Key Features
 
